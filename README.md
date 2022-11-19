@@ -8,7 +8,7 @@ This is the first Chapter of ML University of Tehran Courses
 - Supervised, Unsupervised and Reinforcement Learning
 - ...
 #### Package Installation
-To see the proof of Installation (Video) Click [here(https://google.com)].
+To see the proof of Installation (Video) Click [here](https://github.com/IAmMahdiyar/Chapter1-Machine-Learning/).
 - Numpy
 - Scipy
 - Scikit-learn
