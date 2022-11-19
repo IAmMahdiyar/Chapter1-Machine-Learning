@@ -8,3 +8,9 @@ This is the first Chapter of ML University of Tehran Courses
 - Supervised, Unsupervised and Reinforcement Learning
 - ...
 #### Package Installation
+To see the proof of Installation (Video) Click [here(https://google.com)].
+- Numpy
+- Scipy
+- Scikit-learn
+- Pandas
+- Tensorflow
