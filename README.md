@@ -1,4 +1,4 @@
-# Chapter1-Machine-Learning
+# Chapter 1: Introduction to Machine Learning
 This is the first Chapter of ML University of Tehran Courses
 
 # Objectives
